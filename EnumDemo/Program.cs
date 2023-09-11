@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Hello Alexander!");
             Console.WriteLine("Hello again");
-            Console.WriteLine("Detta är version 2");
+            Console.WriteLine("Detta är version 3");
         }
     }
 }
