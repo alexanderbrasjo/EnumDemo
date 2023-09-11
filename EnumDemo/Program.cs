@@ -36,7 +36,7 @@
                     Respond(Beverage.Juice);
                     break;
                 default:
-                    Console.WriteLine("Invalid input, this drink does not exist");
+                    Console.WriteLine("Invalid input, this drink does not exist.");
                     break;
             }
 
